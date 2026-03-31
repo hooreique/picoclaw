@@ -64,3 +64,5 @@ web/backend/dist/*
 .claude/
 
 docker/data
+
+/result*
